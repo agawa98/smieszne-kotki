@@ -1,4 +1,8 @@
 # smieszne-kotki
+
+STARA WERSJA  
+nowa: https://github.com/agawa98/smieszne-kotki-v2
+
 smieszne kotki vue app
 
 link: agawa98.github.io/smieszne-kotki
